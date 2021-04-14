@@ -12,6 +12,7 @@
    4. *Cloud Computing*
    5. *AWS*
    6. *Power BI* 
+   7. *Git*
 
 3. **Lenguaje de programación**
    1. *Julia*
