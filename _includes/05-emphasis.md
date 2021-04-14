@@ -13,7 +13,7 @@
    5. *C\C++*
 
 3. **Data Science**
-   1. *Captura, limpieza y alamcenamiento de datos. ETL*
+   1. *Captura, limpieza y almacenamiento de datos. ETL*
    2. *Machine Learning*
    3. *Base de datos y SQL*
    4. *Cloud Computing*
