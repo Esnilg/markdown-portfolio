@@ -1,1 +1,1 @@
-![El principio de la sabiduria](https://github.com/Esnilg/markdown-portfolio/tree/main/_image/proverbios.jpg)
+![El principio de la sabiduria](https://pbs.twimg.com/media/DHaFFp4XUAIycHj.jpg)
