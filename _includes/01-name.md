@@ -1,4 +1,4 @@
 # Esnil Josue Guevara M. 
 
-## Lic. Matemática
-### Ph.D. Ingeniería Industrial e Investigación de Operaciones
+## Machine learning Engineer & Data Scientist
+### Lic. en Matemática
